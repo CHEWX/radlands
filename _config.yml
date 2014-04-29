@@ -1,3 +1,4 @@
 name: Radlands
 pygments: true
+markdown: kramdown
 baseurl: /radlands
