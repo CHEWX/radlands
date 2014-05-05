@@ -2,3 +2,6 @@ name: Radlands
 pygments: true
 markdown: kramdown
 baseurl: /radlands
+permalink: '/:year/:title/'
+paginate_path: '/page:num/'
+paginate: 10
