@@ -9,9 +9,12 @@ description: Radlands Plaza in Northampton is a concrete plaza for Skateboards, 
 	    <h4>{{ post.title }}</h4>
 		<div class="post--date">
 			Added on {{ post.date | date_to_string }}</a>
-		</div>	
+		</div>
 		<main class="post--content">
+
 			{{ post.content }}
+			<p><a href="{{ post.url }}">Read More...</a></p>
+
 		</main>
     {% endfor %}
 </article>
