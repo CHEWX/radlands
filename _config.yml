@@ -1,7 +1,10 @@
 name: Radlands
-pygments: true
+highlighter: true
 markdown: kramdown
-baseurl: /
 permalink: '/:year/:title/'
 paginate_path: '/page:num/'
 paginate: 10
+sass:
+  sass_dir: _scss
+  style: :compressed
+
