@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Get Lesta at Radlands"
+title:  "Leo Pickard Radlands Edit"
 date:   2014-08-22 12:00:40
 tags: leo pickard plaza skateboarding
 ---
