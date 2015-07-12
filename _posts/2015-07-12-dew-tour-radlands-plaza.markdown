@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DewTour Bootcamp 2015"
-date:   2015-12-07 11:00:40
+date:   2015-07-12 11:00:40
 tags: radlands dewtour skateboarding
 ---
 
